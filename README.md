@@ -6,8 +6,13 @@ Tiny Search Engine was created for Dartmouth CS50. The project is has 3 componen
 3. Querier: Returns webpages based on queries (supports 'and' and 'or' operators)
 </br> Please see individual directories for IMPLEMENTATION specs and more information.
 
-To build: run make.</br>
-To clean up: run make clean.</br>
+To build:
+```bash make
+```</br>
+To clean up:
+```bash
+make clean
+```</br>
 There is NO global make test, to test the one of the components - you must go to the respective directory.</br>
 
 ### Use
