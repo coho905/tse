@@ -10,8 +10,6 @@ To build:
 ```bash
 make
 ```
-</br>
-
 To clean up: 
 ```bash
 make clean
