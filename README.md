@@ -5,7 +5,7 @@ Tiny Search Engine was created for Dartmouth CS50. The project is has 3 componen
 2. Indexer: Builds an index from the crawler directory
 3. Querier: Returns webpages based on queries (supports 'and' and 'or' operators)
 </br>
-### *Please see individual directories for IMPLEMENTATION specs and more information.*
+### Please see individual directories for IMPLEMENTATION specs and more information.
 
 To build:
 ```bash
