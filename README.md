@@ -18,7 +18,7 @@ make clean
 - There is NO global make test, however, to test one of the components you must go to the respective directory.</br>
 
 ### Use
-To run it fully, first run the crawler, then the indexer, and lastly the querier. Running the querier allows for user input of strings to search for.
+ Running the querier allows for user input of strings to search for. Also fuzzing script.
 
 ## Notes
 + Only run the crawler on:  https://cs50tse.cs.dartmouth.edu/tse/ or wherever the CS50 database is.
