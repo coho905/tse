@@ -7,14 +7,15 @@ Tiny Search Engine was created for Dartmouth CS50. The project is has 3 componen
 </br> Please see individual directories for IMPLEMENTATION specs and more information.
 
 To build:
-```bash make
+```bash
+make
 ```
 </br>
-To clean up:
+
+To clean up: 
 ```bash
 make clean
 ```
-</br>
 There is NO global make test, to test the one of the components - you must go to the respective directory.</br>
 
 ### Use
